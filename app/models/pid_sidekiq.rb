@@ -1,0 +1,2 @@
+class PidSidekiq < ApplicationRecord
+end
