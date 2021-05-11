@@ -34,3 +34,12 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+Gemfile.lock
+yarn.lock
+package.json.lock
+
+dump.rdb
+/config/configuration.yml
+/db/schema.rb
+rspec.output.txt
