@@ -29,6 +29,8 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 # Use mysql as the database for Active Record
 gem 'mysql2', '>= 0.4.4'
+# For Cross-Origin Resource Sharing
+gem 'rack-cors', :require => 'rack/cors'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
